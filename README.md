@@ -1,4 +1,4 @@
-# Named Entity Recognition (NER) System using TensorFlow
+# Named Entity Recognition (NER) System
 
 This project implements a Named Entity Recognition (NER) model using TensorFlow. The model is trained to identify named entities in text data.
 
@@ -59,4 +59,3 @@ The NER model is built using a sequential architecture with the following layers
 - Bidirectional LSTM layer with recurrent dropout
 - TimeDistributed Dense layer with softmax activation
 
-The model architecture is defined in the script `ner_model.py`.
