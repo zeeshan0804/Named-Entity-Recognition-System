@@ -53,6 +53,9 @@ The dataset used for training and evaluation is sourced from `Dataset/ner_datase
 
 The NER model is built using a sequential architecture with the following layers:
 
+![ner h5](https://github.com/zeeshan0804/Named-Entity-Recognition-System/assets/67948488/c91b6bf4-4459-48a4-801e-7f0d05f948e7)
+
+
 - Embedding layer
 - Dropout layer
 - Bidirectional LSTM layer
